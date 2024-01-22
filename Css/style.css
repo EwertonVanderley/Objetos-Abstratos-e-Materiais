@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+div{
+    text-align: center;
+    margin: 15px;
+    font-family: Helvetica;
+    font-weight: bold;
+}
